@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyDesktopApp/1.0.0": {
+        "runtime": {
+          "MyDesktopApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyDesktopApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

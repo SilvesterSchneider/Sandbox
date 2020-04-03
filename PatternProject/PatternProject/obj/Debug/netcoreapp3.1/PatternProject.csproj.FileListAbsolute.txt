@@ -1,0 +1,11 @@
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\bin\Debug\netcoreapp3.1\PatternProject.exe
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\bin\Debug\netcoreapp3.1\PatternProject.deps.json
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\bin\Debug\netcoreapp3.1\PatternProject.runtimeconfig.json
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\bin\Debug\netcoreapp3.1\PatternProject.runtimeconfig.dev.json
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\bin\Debug\netcoreapp3.1\PatternProject.dll
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\bin\Debug\netcoreapp3.1\PatternProject.pdb
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\obj\Debug\netcoreapp3.1\PatternProject.csprojAssemblyReference.cache
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\obj\Debug\netcoreapp3.1\PatternProject.AssemblyInfoInputs.cache
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\obj\Debug\netcoreapp3.1\PatternProject.AssemblyInfo.cs
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\obj\Debug\netcoreapp3.1\PatternProject.dll
+C:\Users\silve\Repos\sandbox\PatternProject\PatternProject\obj\Debug\netcoreapp3.1\PatternProject.pdb

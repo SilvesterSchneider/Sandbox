@@ -1,0 +1,17 @@
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\bin\Debug\netcoreapp3.1\MyDesktopApp.exe
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\bin\Debug\netcoreapp3.1\MyDesktopApp.deps.json
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\bin\Debug\netcoreapp3.1\MyDesktopApp.runtimeconfig.json
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\bin\Debug\netcoreapp3.1\MyDesktopApp.runtimeconfig.dev.json
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\bin\Debug\netcoreapp3.1\MyDesktopApp.dll
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\bin\Debug\netcoreapp3.1\MyDesktopApp.pdb
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\MyDesktopApp.csprojAssemblyReference.cache
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\MyDesktopApp_MarkupCompile.cache
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\MyDesktopApp_MarkupCompile.lref
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\MyDesktopApp.g.resources
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\MyDesktopApp.AssemblyInfoInputs.cache
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\MyDesktopApp.AssemblyInfo.cs
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\MyDesktopApp.dll
+C:\Users\silve\Repos\sandbox\PatternProject\MyDesktopApp\obj\Debug\netcoreapp3.1\MyDesktopApp.pdb
